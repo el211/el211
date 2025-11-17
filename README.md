@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/aI0k0Gr" width="180" alt="Oreo Studios logo"/>
+  <img src="https://media.discordapp.net/attachments/1216287437043662970/1439923144004730900/logo_1.png?ex=691c486e&is=691af6ee&hm=a8d347127a1980288dfb6e90b55d3ba1e385d103af03e2267ceeed0b7bcb7353&=&format=webp&quality=lossless" width="180" alt="Oreo Studios logo"/>
 </p>
 
 <h1 align="center">👋 HIIIIII — I'm Elias (el211)</h1>
