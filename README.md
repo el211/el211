@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/Lm1tiG3.png" width="180" alt="Oreo Studios logo"/>
+  <img src="[https://i.imgur.com/Lm1tiG3.png](https://imgur.com/a/aI0k0Gr)" width="180" alt="Oreo Studios logo"/>
 </p>
 
 <h1 align="center">👋 HIIIIII — I'm Elias (el211)</h1>
