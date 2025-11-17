@@ -88,7 +88,7 @@ I maintain and publish plugins and tools. Check my pinned repositories on my Git
 ---
 
 ## Contact
-- Email: saireelias@gmail.com
+- Email: support@oreostudios.info
 - Discord: OreoStudios
 - Website / Shop: https://www.oreostudio.store/
 - GitHub: https://github.com/el211
