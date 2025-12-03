@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1216287437043662970/1439923144004730900/logo_1.png?ex=691c486e&is=691af6ee&hm=a8d347127a1980288dfb6e90b55d3ba1e385d103af03e2267ceeed0b7bcb7353&=&format=webp&quality=lossless" width="180" alt="Oreo Studios logo"/>
+  <img src="https://media.discordapp.net/attachments/1216287437043662970/1445698851595096086/C9532E5B-F84A-494D-A5DE-E394C6109C22.png?ex=69314b7a&is=692ff9fa&hm=c6d942600c2df3b4bddea86dc01a688fecf6e6650f94b36849269577917cb8cf&=&format=webp&quality=lossless&width=1006&height=1006" width="180" alt="Oreo Studios logo"/>
 </p>
 
 <h1 align="center">👋 HIIIIII — I'm Elias </h1>
