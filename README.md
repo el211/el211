@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1216287437043662970/1439923144004730900/logo_1.png?ex=691c486e&is=691af6ee&hm=a8d347127a1980288dfb6e90b55d3ba1e385d103af03e2267ceeed0b7bcb7353&=&format=webp&quality=lossless" width="180" alt="Oreo Studios logo"/>
 </p>
@@ -26,7 +25,7 @@
 ---
 
 ## About
-I’m Elias — a passionate JAVA developer from France focused on Java, web development, and Minecraft plugin systems. I build scalable server-side systems, multiplayer game systems, and engaging web interfaces. I run Oreo Studios where I publish Primarly minecraft plugins, tools and game projects.
+I’m Elias — a passionate JAVA developer from France focused on Java, web development, and Minecraft plugin systems. I build scalable server-side systems, multiplayer game systems, and engaging web interfaces. I run Oreo Studios where I publish primarily Minecraft plugins, tools and game projects.
 
 High-level experience:
 - Java, Spigot/Paper plugin development (professional Minecraft plugins)
@@ -46,8 +45,7 @@ High-level experience:
 
 ## Tech & Tools
 
-<!-- Compact inline icons with controlled spacing to avoid gaps.
-     Theme=light applied to have icons on a light background. -->
+<!-- Icônes individuelles pour éviter les trous ; theme=light pour fond clair -->
 <p>
   <img src="https://skillicons.dev/icons?i=java&theme=light" alt="java" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
   <img src="https://skillicons.dev/icons?i=python&theme=light" alt="python" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
@@ -138,4 +136,3 @@ Most of my public repositories use permissive licenses. If you want me to add or
 
 ## Final notes
 Thanks for visiting — if you like my work or want help on a plugin, game system, or web tool, reach out. And yes — I love Oreos 🍪
-```
