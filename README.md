@@ -88,7 +88,7 @@ Below are some of my highlighted projects. Click to visit each repository or the
     </a>
   </p>
 
-(If any repo names or links are different, tell me and I'll update them.)
+
 
 ---
 
