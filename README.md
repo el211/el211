@@ -44,7 +44,24 @@ High-level experience:
 ---
 
 ## Tech & Tools
-Languages
+
+Languages & core
+<p>
+  <!-- Single-line icon row from skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,csharp,php,bash" alt="Languages" />
+</p>
+
+Datastores & infra
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,mysql,docker,linux,pterodactyl,rabbitmq" alt="Datastores & infra" />
+</p>
+
+Frameworks & libraries / Game tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,express,spigot,paper,react,nodejs" alt="Frameworks & libraries" />
+</p>
+
+Short skills (text)
 - Java — 100%
 - Python — 100%
 - JavaScript / TypeScript — 90%
@@ -52,12 +69,12 @@ Languages
 - PHP — 60%
 - Bash / Shell — comfortable
 
-Datastores & infra
+Datastores & infra (text)
 - MongoDB, Redis, MySQL
 - Docker, Linux, Pterodactyl
 - RabbitMQ
 
-Frameworks & libraries
+Frameworks & libraries (text)
 - Spigot / Paper, MythicMobs, ModelEngine, ItemsAdder
 - Express, Node.js, REST APIs
 - Spring / Java tooling
