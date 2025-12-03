@@ -45,22 +45,9 @@ High-level experience:
 
 ## Tech & Tools
 
-Languages & core
+Compact icon row (languages, infra, frameworks) — garde : java, python, javascript, php, go, csharp, mongodb, redis, linux, rabbitmq, nodejs
 <p>
-  <!-- Compact single-line icons — garde : java, python, javascript, php -->
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,php" alt="Languages" />
-</p>
-
-Datastores & infra
-<p>
-  <!-- Compact single-line icons — garde : mongodb, redis, linux, rabbitmq -->
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,linux,rabbitmq" alt="Datastores & infra" />
-</p>
-
-Frameworks & libraries / Game tooling
-<p>
-  <!-- Compact single-line icons — garde : nodejs -->
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Frameworks & libraries" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,php,go,csharp,mongodb,redis,linux,rabbitmq,nodejs" alt="Tech & Tools" />
 </p>
 
 Short skills (text)
