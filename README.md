@@ -48,7 +48,7 @@ High-level experience:
 
 <!-- Combined icon row (single image) to avoid "gaps"; includes Unity -->
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,php,go,csharp,unity,mongodb,redis,linux,rabbitmq,nodejs&theme=light" alt="Tech & Tools" style="height:40px;display:inline-block;vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,php,go,unity,mongodb,redis,linux,rabbitmq,nodejs,csharp,&theme=light" alt="Tech & Tools" style="height:40px;display:inline-block;vertical-align:middle;" />
 </p>
 
 Short skills (text)
