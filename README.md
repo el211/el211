@@ -45,19 +45,9 @@ High-level experience:
 
 ## Tech & Tools
 
-<!-- Icônes individuelles pour éviter les trous ; theme=light pour fond clair -->
+<!-- Icônes combinées en une seule image pour éviter les "trous" -->
 <p>
-  <img src="https://skillicons.dev/icons?i=java&theme=light" alt="java" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
-  <img src="https://skillicons.dev/icons?i=python&theme=light" alt="python" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
-  <img src="https://skillicons.dev/icons?i=javascript&theme=light" alt="javascript" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
-  <img src="https://skillicons.dev/icons?i=php&theme=light" alt="php" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
-  <img src="https://skillicons.dev/icons?i=go&theme=light" alt="go" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
-  <img src="https://skillicons.dev/icons?i=csharp&theme=light" alt="csharp" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="mongodb" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
-  <img src="https://skillicons.dev/icons?i=redis&theme=light" alt="redis" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=light" alt="linux" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" alt="rabbitmq" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="nodejs" style="display:inline-block;vertical-align:middle;height:40px;" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,php,go,csharp,mongodb,redis,linux,rabbitmq,nodejs&theme=light" alt="Tech & Tools" style="height:40px;display:inline-block;vertical-align:middle;" />
 </p>
 
 Short skills (text)
