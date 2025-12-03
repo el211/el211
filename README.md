@@ -25,7 +25,7 @@
 ---
 
 ## About
-I’m Elias — a passionate developer from France focused on server-side Java systems, game systems and web development. I build scalable server-side systems, multiplayer game mechanics, and engaging web dashboards. I run Oreo Studios and work on plugins, tools and games — including Afelia, an upcoming RPG/FPS title.
+I’m Elias  a passionate developer from France focused on server-side Java systems, game systems and web development. I build scalable server-side systems, multiplayer game mechanics, and engaging web dashboards. I run Oreo Studios and work on plugins, tools and games  including Afelia, an upcoming RPG/FPS title.
 
 High-level experience:
 - Java, Spigot/Paper plugin development (professional Minecraft plugins)
@@ -77,9 +77,9 @@ Below are some of my highlighted projects. Click to visit each repository or the
 
 | Project | Short description |
 |--------:|------------------|
-| 🍪 OreoEssentials | Modern essentials core for cross-server sync, MongoDB-backed data, advanced GUIs. — https://github.com/el211/OreoEssentials |
-| 🪄 MythicDrop | Custom drop system for MythicMobs with configurable tables and rarity weighting. — https://github.com/el211/MythicDrop |
-| 🌌 Afelia | Upcoming sci‑fi RPG/FPS — game systems, mechanics & lore. Pre‑alpha — coming to Steam. — http://afeliathegame.com/ |
+|  OreoEssentials | Modern essentials core for cross-server sync, MongoDB-backed data, advanced GUIs. — https://github.com/el211/OreoEssentials |
+| MythicDrop | Custom drop system for MythicMobs with configurable tables and rarity weighting. — https://github.com/el211/MythicDrop |
+| Afelia | Upcoming sci‑fi RPG/FPS — game systems, mechanics & lore. Pre‑alpha — coming to Steam. — http://afeliathegame.com/ |
   <p align="center">
     <!-- Place the Afelia logo in the repo at assets/afelia-logo.png for this to render.
          If you want, I can add it to the repo for you. -->
