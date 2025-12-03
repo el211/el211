@@ -2,7 +2,7 @@
   <img src="https://media.discordapp.net/attachments/1216287437043662970/1445698851595096086/C9532E5B-F84A-494D-A5DE-E394C6109C22.png?ex=69314b7a&is=692ff9fa&hm=c6d942600c2df3b4bddea86dc01a688fecf6e6650f94b36849269577917cb8cf&=&format=webp&quality=lossless&width=1006&height=1006" width="180" alt="Oreo Studios logo"/>
 </p>
 
-<h1 align="center">👋 HIIIIII — I'm Elias </h1>
+<h1 align="center">👋 HIIIIII — I'm Elias CEO Of OreoStudios </h1>
 <h3 align="center">🇫🇷 French Java & Web Developer | Founder of Oreo Studios 🍪</h3>
 
 <p align="center">
