@@ -2,7 +2,7 @@
   <img src="https://media.discordapp.net/attachments/1216287437043662970/1445698851595096086/C9532E5B-F84A-494D-A5DE-E394C6109C22.png?ex=69314b7a&is=692ff9fa&hm=c6d942600c2df3b4bddea86dc01a688fecf6e6650f94b36849269577917cb8cf&=&format=webp&quality=lossless&width=1006&height=1006" width="180" alt="Oreo Studios logo"/>
 </p>
 
-<h1 align="center">👋 HIIIIII — I'm Elias CEO Of OreoStudios </h1>
+<h1 align="center">👋 HIIIIII — I'm Elias </h1>
 <h3 align="center">🇫🇷 French Java & Web Developer | Founder of Oreo Studios 🍪</h3>
 
 <p align="center">
@@ -25,10 +25,11 @@
 ---
 
 ## About
-I’m Elias — a passionate JAVA developer from France focused on Java, web development, and Minecraft plugin systems. I build scalable server-side systems, multiplayer game systems, and engaging web interfaces. I run Oreo Studios where I publish primarily Minecraft plugins, tools and game projects.
+I’m Elias — a passionate developer from France focused on server-side Java systems, game systems and web development. I build scalable server-side systems, multiplayer game mechanics, and engaging web dashboards. I run Oreo Studios and work on plugins, tools and games — including Afelia, an upcoming RPG/FPS title.
 
 High-level experience:
 - Java, Spigot/Paper plugin development (professional Minecraft plugins)
+- Game engines: Unity (engine experience for gameplay, systems & prototyping)
 - Full-stack web development (HTML/CSS/JS, Node.js, PHP, REST APIs)
 - Databases & infra: MongoDB, Redis, MySQL, Docker, RabbitMQ
 - Tools & patterns: Docker, CI, microservices patterns, message queues
@@ -39,22 +40,22 @@ High-level experience:
 - Modern essentials & server tooling (cross-server sync, GUIs, performance-minded)
 - Custom gameplay systems for Minecraft (drops, lotteries, item systems)
 - Web dashboards & backend services to support game ecosystems
-- Game worlds & narrative universes (Afelia)
+- Game worlds & narrative universes (Afelia — upcoming RPG/FPS)
 
 ---
 
 ## Tech & Tools
 
-<!-- Icônes combinées en une seule image pour éviter les "trous" -->
+<!-- Combined icon row (single image) to avoid "gaps"; includes Unity -->
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,php,go,mongodb,redis,linux,rabbitmq,nodejs,csharp&theme=light" alt="Tech & Tools" style="height:40px;display:inline-block;vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,php,go,csharp,unity,mongodb,redis,linux,rabbitmq,nodejs&theme=light" alt="Tech & Tools" style="height:40px;display:inline-block;vertical-align:middle;" />
 </p>
 
 Short skills (text)
 - Java — 100%
 - Python — 100%
 - JavaScript / TypeScript — 90%
-- C# (.NET) — 80%
+- C# (.NET) & Unity scripting — 80%
 - PHP — 60%
 - Bash / Shell — comfortable
 
@@ -65,31 +66,72 @@ Datastores & infra (text)
 
 Frameworks & libraries (text)
 - Spigot / Paper, MythicMobs, ModelEngine, ItemsAdder
+- Unity engine (game systems, prototyping)
 - Express, Node.js, REST APIs
 - Spring / Java tooling
 
 ---
 
 ## Featured Projects
-Below are some of my highlighted projects. Click to visit each repository.
+Below are some of my highlighted projects. Click to visit each repository or the game page.
 
 | Project | Short description |
 |--------:|------------------|
 | 🍪 OreoEssentials | Modern essentials core for cross-server sync, MongoDB-backed data, advanced GUIs. — https://github.com/el211/OreoEssentials |
 | 🪄 MythicDrop | Custom drop system for MythicMobs with configurable tables and rarity weighting. — https://github.com/el211/MythicDrop |
-| 🌌 Afelia | Sci-fi / fantasy universe — game systems, mechanics & lore (project homepage / repo). — https://github.com/el211/Afelia |
+| 🌌 Afelia | Upcoming sci‑fi RPG/FPS — game systems, mechanics & lore. Pre‑alpha — coming to Steam. — http://afeliathegame.com/ |
+  <p align="center">
+    <!-- Place the Afelia logo in the repo at assets/afelia-logo.png for this to render.
+         If you want, I can add it to the repo for you. -->
+    <a href="http://afeliathegame.com/" target="_blank">
+      <img src="assets/afelia-logo.png" alt="Afelia logo" width="360" />
+    </a>
+  </p>
 
 (If any repo names or links are different, tell me and I'll update them.)
 
 ---
 
 ## Open Source Work & GitHub Stats
-I maintain and publish plugins and tools. Check my pinned repositories on my GitHub profile to explore code and usage docs.
 
 <p align="center">
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=el211&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el211&layout=compact&theme=tokyonight" alt="Top languages"/>
+  <!-- Main profile stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=el211&show_icons=true&theme=tokyonight" alt="GitHub Readme Stats" />
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el211&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<!-- GitHub achievement trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=el211&theme=flat&row=1" alt="GitHub Trophies" />
+</p>
+
+<!-- Contribution / activity widgets -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=el211&theme=flat" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/el211" alt="Contribution chart" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=el211&theme=github" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=el211" alt="Profile Summary" />
+</p>
+
+<!-- Total commits & other badges (third-party services) -->
+<p align="center">
+  <img src="https://badges.pufler.dev/commits?username=el211" alt="Total commits (third-party)" />
+  <img src="https://badges.pufler.dev/repos?username=el211" alt="Total repos (third-party)" />
+  <img src="https://badges.pufler.dev/stars?username=el211" alt="Total stars (third-party)" />
+</p>
+
+Note about badges and widgets:
+- These images are served by third‑party services. If one fails to load, it's usually a transient outage. For a fully reliable "total commits" badge I can add a GitHub Action that computes the count and updates the README automatically — tell me if you want that.
 
 ---
 
@@ -97,6 +139,7 @@ I maintain and publish plugins and tools. Check my pinned repositories on my Git
 - Email: support@oreostudios.info
 - Discord: OreoStudios
 - Website / Shop: https://www.oreostudio.store/
+- Afelia game: http://afeliathegame.com/
 - GitHub: https://github.com/el211
 
 ---
