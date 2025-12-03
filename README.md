@@ -47,7 +47,7 @@ High-level experience:
 
 <!-- Icônes combinées en une seule image pour éviter les "trous" -->
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,php,go,csharp,mongodb,redis,linux,rabbitmq,nodejs&theme=light" alt="Tech & Tools" style="height:40px;display:inline-block;vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,php,go,mongodb,redis,linux,rabbitmq,nodejs,csharp&theme=light" alt="Tech & Tools" style="height:40px;display:inline-block;vertical-align:middle;" />
 </p>
 
 Short skills (text)
