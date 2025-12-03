@@ -1,53 +1,18 @@
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1216287437043662970/1439923144004730900/logo_1.png?ex=691c486e&is=691af6ee&hm=a8d347127a1980288dfb6e90b55d3ba1e385d103af03e2267ceeed0b7bcb7353&=&format=webp&quality=lossless" width="180" alt="Oreo Studios logo"/>
-</p>
-
-<h1 align="center">👋 HIIIIII — I'm Elias </h1>
-<h3 align="center">🇫🇷 French Java & Web Developer | Founder of Oreo Studios 🍪</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=00E7F7&center=true&vCenter=true&width=720&lines=Java+Developer;Web+Developer+%28HTML+CSS+JS+PHP+Node.js%29;Minecraft+Plugin+Developer;Founder+of+Oreo+Studios;Fullstack+Developer;Game+Systems+Designer" alt="Typing SVG"/>
-</p>
-
----
-
-## Table of Contents
-- [About](#about)
-- [What I build](#what-i-build)
-- [Tech & Tools](#tech--tools)
-- [Featured Projects](#featured-projects)
-- [Open Source Work](#open-source-work)
-- [Contact](#contact)
-- [How to support & collaborate](#how-to-support--collaborate)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
-## About
-I’m Elias — a passionate JAVA developer from France focused on Java, web development, and Minecraft plugin systems. I build scalable server-side systems, multiplayer game systems, and engaging web interfaces. I run Oreo Studios where I publish Primarly minecraft plugins, tools and game projects.
-
-High-level experience:
-- Java, Spigot/Paper plugin development (professional Minecraft plugins)
-- Full-stack web development (HTML/CSS/JS, Node.js, PHP, REST APIs)
-- Databases & infra: MongoDB, Redis, MySQL, Docker, RabbitMQ
-- Tools & patterns: Docker, CI, microservices patterns, message queues
-
----
-
-## What I build
-- Modern essentials & server tooling (cross-server sync, GUIs, performance-minded)
-- Custom gameplay systems for Minecraft (drops, lotteries, item systems)
-- Web dashboards & backend services to support game ecosystems
-- Game worlds & narrative universes (Afelia)
-
----
-
 ## Tech & Tools
 
-Compact icon row (languages, infra, frameworks) — garde : java, python, javascript, php, go, csharp, mongodb, redis, linux, rabbitmq, nodejs
+<!-- Compact inline icons with controlled spacing to avoid gaps -->
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,php,go,csharp,mongodb,redis,linux,rabbitmq,nodejs" alt="Tech & Tools" />
+  <img src="https://skillicons.dev/icons?i=java" alt="java" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
+  <img src="https://skillicons.dev/icons?i=python" alt="python" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
+  <img src="https://skillicons.dev/icons?i=php" alt="php" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
+  <img src="https://skillicons.dev/icons?i=go" alt="go" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
+  <img src="https://skillicons.dev/icons?i=csharp" alt="csharp" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="redis" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="linux" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq" style="display:inline-block;vertical-align:middle;margin-right:8px;height:40px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" style="display:inline-block;vertical-align:middle;height:40px;" />
 </p>
 
 Short skills (text)
@@ -67,6 +32,3 @@ Frameworks & libraries (text)
 - Spigot / Paper, MythicMobs, ModelEngine, ItemsAdder
 - Express, Node.js, REST APIs
 - Spring / Java tooling
-
----
-(rest of README unchanged)
