@@ -95,11 +95,12 @@ Below are some of my highlighted projects. Click to visit each repository or the
 ## Open Source Work & GitHub Stats
 
 <p align="center">
-  <!-- Main profile stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=el211&show_icons=true&theme=tokyonight" alt="GitHub Readme Stats" />
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el211&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
+  <a href="https://github.com/el211">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=el211&theme=tokyonight" alt="GitHub Summary Card" />
+  </a>
 </p>
+
 
 <!-- GitHub achievement trophies -->
 <p align="center">
@@ -116,8 +117,9 @@ Below are some of my highlighted projects. Click to visit each repository or the
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=el211&theme=github" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=el211&theme=github" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=el211" alt="Profile Summary" />
@@ -125,13 +127,11 @@ Below are some of my highlighted projects. Click to visit each repository or the
 
 <!-- Total commits & other badges (third-party services) -->
 <p align="center">
-  <img src="https://badges.pufler.dev/commits?username=el211" alt="Total commits (third-party)" />
-  <img src="https://badges.pufler.dev/repos?username=el211" alt="Total repos (third-party)" />
-  <img src="https://badges.pufler.dev/stars?username=el211" alt="Total stars (third-party)" />
+  <img src="https://komarev.com/ghpvc/?username=el211&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://img.shields.io/github/commits-since/el211/el211/master.svg?style=flat" alt="Commits since" />
+  <img src="https://img.shields.io/github/all-contributors/el211/el211.svg?style=flat-square" alt="Contributors" />
 </p>
 
-Note about badges and widgets:
-- These images are served by third‑party services. If one fails to load, it's usually a transient outage. For a fully reliable "total commits" badge I can add a GitHub Action that computes the count and updates the README automatically — tell me if you want that.
 
 ---
 
