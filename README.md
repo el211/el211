@@ -25,7 +25,7 @@
 ---
 
 ## About
-I’m Elias  a passionate developer from France focused on server-side Java systems, game systems and web development. I build scalable server-side systems, multiplayer game mechanics, and engaging web dashboards. I run Oreo Studios and work on plugins, tools and games  including Afelia, an upcoming RPG/FPS title.
+I’m Elias  a passionate java developer from France focused on server-side Java systems, game systems and web development. I build scalable server-side systems, multiplayer game mechanics, and engaging web dashboards. I run Oreo Studios and work on plugins, tools and games  including Afelia, an upcoming RPG/FPS title.
 
 High-level experience:
 - Java, Spigot/Paper plugin development (professional Minecraft plugins)
