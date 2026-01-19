@@ -11,7 +11,7 @@
 
 ---
 
-## Table of Contents
+## Table of Contents:
 - [About](#about)
 - [What I build](#what-i-build)
 - [Tech & Tools](#tech--tools)
