@@ -16,7 +16,7 @@
 - [What I build](#what-i-build)
 - [Tech & Tools](#tech--tools)
 - [Featured Projects](#featured-projects)
-- [GoCraft — Minecraft, rebuilt in Go](#gocraft--minecraft-rebuilt-in-go-️)
+- [GoCraft — Minecraft, rebuilt in Go](#gocraft--minecraft-rebuilt-in-go-)
 - [Open Source Work](#open-source-work)
 - [Contact](#contact)
 - [How to support & collaborate](#how-to-support--collaborate)
@@ -99,6 +99,12 @@ Below are some of my highlighted projects. Click to visit each repository or the
 
 ## GoCraft — Minecraft, rebuilt in Go 🍪⛏️
 
+<p align="center">
+  <a href="https://gocraft.fr" target="_blank">
+    <img src="assets/gocraft-banner.png" alt="GoCraft — Minecraft rebuilt in Go" width="720" />
+  </a>
+</p>
+
 I founded and lead **[GoCraft](https://github.com/GoCraft-MC)** ([gocraft.fr](https://gocraft.fr)) — an open‑source organization rewriting the Minecraft server **from scratch in Go**. Our goal is a single high‑performance server with **native support for both Java and Bedrock** editions, plus a **multi‑runtime plugin system** so developers can extend the server in Go *and* Java.
 
 What we're building:
@@ -110,6 +116,11 @@ What we're building:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoCraft-MC&repo=GoCraft&theme=tokyonight&hide_border=true" alt="GoCraft repo" />
+</p>
+
+<p align="center">
+  <a href="https://gocraft.fr"><img src="https://img.shields.io/badge/website-gocraft.fr-00ADD8?style=flat" alt="gocraft.fr" /></a>
+  <a href="https://github.com/GoCraft-MC"><img src="https://img.shields.io/badge/org-GoCraft--MC-181717?style=flat&logo=github" alt="GoCraft-MC" /></a>
 </p>
 
 ---
