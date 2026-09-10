@@ -77,14 +77,37 @@ Frameworks & libraries (text)
 ---
 
 ## Featured Projects
-Below are some of my highlighted projects. Click to visit each repository or the game page.
+A selection of my highlighted work across game servers, web apps, libraries and games. Click any name to open the repo or page.
 
-| Project | Short description |
-|--------:|------------------|
-|  OreoEssentials | Modern essentials core for cross-server sync, MongoDB-backed data, advanced GUIs. — https://github.com/el211/OreoEssentials |
-| MythicDrop | Custom drop system for MythicMobs with configurable tables and rarity weighting. — https://github.com/el211/MythicDrop |
-| GoCraft | A from-scratch Minecraft server written in Go with native Java & Bedrock support and a multi-runtime plugin system. — https://github.com/GoCraft-MC |
-| Afelia | Upcoming sci‑fi RPG/FPS — game systems, mechanics & lore. Pre‑alpha — coming to Steam. — http://afeliathegame.com/ |
+### 🎮 Games & Engines
+| Project | Description |
+|---|---|
+| [**GoCraft**](https://github.com/GoCraft-MC) | A from-scratch Minecraft server written in **Go** with native **Java & Bedrock** support and a multi-runtime plugin system. |
+| [**Afelia**](http://afeliathegame.com/) | Upcoming sci‑fi **RPG/FPS** — game systems, mechanics & lore. Pre‑alpha, coming to Steam. |
+
+### 🌐 Web & Backend (Spring Boot / Full-stack)
+| Project | Stack | Description |
+|---|---|---|
+| [**ZyntralAI**](https://github.com/el211/ZyntralAI) | Java · Spring Boot | AI platform backend — REST API and services built on Spring Boot. |
+| [**ZyntralAI-FrontEnd**](https://github.com/el211/ZyntralAI-FrontEnd) | TypeScript | Web front-end for the ZyntralAI platform. |
+| [**ZyntralAI-voice**](https://github.com/el211/ZyntralAI-voice) | Python | Voice/speech services for ZyntralAI. |
+| [**team-flow-api**](https://github.com/el211/team-flow-api) | Go | Backend API for team/workflow management. |
+
+### 🧩 Minecraft Plugins
+| Project | Description |
+|---|---|
+| [**OreoEssentials**](https://github.com/el211/OreoEssentials-) | The most advanced all-in-one Essentials plugin for **Paper 1.21+** — cross-server sync, MongoDB-backed data, advanced GUIs. Free & open-source. |
+| [**MythicDrops-Refactored**](https://github.com/el211/MythicDrops-Refactored) | Custom drop system for MythicMobs with configurable tables and rarity weighting. |
+| [**zCrates**](https://github.com/el211/zCrates) | A scriptable crate system with full flexibility to create unique animations. |
+| [**SmartMenus-V2**](https://github.com/el211/SmartMenus-V2) | Advanced menu/GUI framework powered by the SmartInvs API. |
+| [**HoloCreator**](https://github.com/el211/HoloCreator) | Easy-to-use holograms plugin. |
+
+### 📚 Libraries & Tools
+| Project | Description |
+|---|---|
+| [**Structura**](https://github.com/el211/Structura) | Type-safe YAML configuration library for **Java 21+** with automatic type conversion. |
+| [**BDApi**](https://github.com/el211/BDApi) | Lightweight Java API for creating, animating and adding physics to Block Displays on Paper. |
+| [**OreoLib**](https://github.com/el211/OreoLib) | Utility library that makes writing Java plugins easier. |
   <p align="center">
     <!-- Place the Afelia logo in the repo at assets/afelia-logo.png for this to render.
          If you want, I can add it to the repo for you. -->
