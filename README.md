@@ -31,7 +31,7 @@ I’m Elias  a passionate java developer from France focused on server-side Java
 
 High-level experience:
 - Java, Spigot/Paper plugin development (professional Minecraft plugins)
-- Game engines: Unity (engine experience for gameplay, systems & prototyping)
+- Game engines: Unity, LibGDX, jMonkeyEngine (engine experience for gameplay, systems & prototyping)
 - Full-stack web development (HTML/CSS/JS, Node.js, PHP, REST APIs)
 - Databases & infra: MongoDB, Redis, MySQL, Docker, RabbitMQ
 - Tools & patterns: Docker, CI, microservices patterns, message queues
@@ -68,7 +68,7 @@ Datastores & infra (text)
 
 Frameworks & libraries (text)
 - Spigot / Paper, MythicMobs, ModelEngine, ItemsAdder
-- Unity engine (game systems, prototyping)
+- Unity, LibGDX, jMonkeyEngine (game systems, prototyping)
 - Express, Node.js, REST APIs
 - Spring / Java tooling
 
