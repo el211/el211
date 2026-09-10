@@ -27,6 +27,8 @@
 ## About
 I’m Elias  a passionate java developer from France focused on server-side Java systems, game systems and web development. I build scalable server-side systems, multiplayer game mechanics, and engaging web dashboards. I run Oreo Studios and work on plugins, tools and games  including Afelia, an upcoming RPG/FPS title.
 
+🎓 Currently studying at **Epitech Strasbourg**.
+
 High-level experience:
 - Java, Spigot/Paper plugin development (professional Minecraft plugins)
 - Game engines: Unity (engine experience for gameplay, systems & prototyping)
@@ -94,42 +96,49 @@ Below are some of my highlighted projects. Click to visit each repository or the
 
 ## Open Source Work & GitHub Stats
 
+<!-- Core stats + top languages (github-readme-stats) -->
 <p align="center">
-  
   <a href="https://github.com/el211">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=el211&theme=tokyonight" alt="GitHub Summary Card" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=el211&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Elias' GitHub Stats" />
+  </a>
+  <a href="https://github.com/el211">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el211&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
+<!-- Streak stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=el211&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<!-- Contribution activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=el211&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
+
+<!-- Profile summary cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=el211&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=el211&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=el211&theme=tokyonight" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=el211&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=el211&theme=tokyonight&utcOffset=2" alt="Productive time" />
+</p>
 
 <!-- GitHub achievement trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=el211&theme=flat&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=el211&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies" />
 </p>
 
-<!-- Contribution / activity widgets -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=el211&theme=flat" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/el211" alt="Contribution chart" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=el211&theme=github" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=el211" alt="Profile Summary" />
-</p>
-
-<!-- Total commits & other badges (third-party services) -->
+<!-- Profile views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=el211&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-  <img src="https://img.shields.io/github/commits-since/el211/el211/master.svg?style=flat" alt="Commits since" />
-  <img src="https://img.shields.io/github/all-contributors/el211/el211.svg?style=flat-square" alt="Contributors" />
 </p>
 
 
@@ -138,7 +147,7 @@ Below are some of my highlighted projects. Click to visit each repository or the
 ## Contact
 - Email: support@oreostudios.info
 - Discord: OreoStudios
-- Website / Shop: https://www.oreostudio.store/
+- Website / Shop: https://oreostudios.fr/
 - Afelia game: http://afeliathegame.com/
 - GitHub: https://github.com/el211
 
