@@ -16,6 +16,7 @@
 - [What I build](#what-i-build)
 - [Tech & Tools](#tech--tools)
 - [Featured Projects](#featured-projects)
+- [GoCraft — Minecraft, rebuilt in Go](#gocraft--minecraft-rebuilt-in-go-️)
 - [Open Source Work](#open-source-work)
 - [Contact](#contact)
 - [How to support & collaborate](#how-to-support--collaborate)
@@ -43,6 +44,7 @@ High-level experience:
 - Custom gameplay systems for Minecraft (drops, lotteries, item systems)
 - Web dashboards & backend services to support game ecosystems
 - Game worlds & narrative universes (Afelia — upcoming RPG/FPS)
+- A from-scratch Minecraft server in Go with native Java & Bedrock support (GoCraft)
 
 ---
 
@@ -81,6 +83,7 @@ Below are some of my highlighted projects. Click to visit each repository or the
 |--------:|------------------|
 |  OreoEssentials | Modern essentials core for cross-server sync, MongoDB-backed data, advanced GUIs. — https://github.com/el211/OreoEssentials |
 | MythicDrop | Custom drop system for MythicMobs with configurable tables and rarity weighting. — https://github.com/el211/MythicDrop |
+| GoCraft | A from-scratch Minecraft server written in Go with native Java & Bedrock support and a multi-runtime plugin system. — https://github.com/GoCraft-MC |
 | Afelia | Upcoming sci‑fi RPG/FPS — game systems, mechanics & lore. Pre‑alpha — coming to Steam. — http://afeliathegame.com/ |
   <p align="center">
     <!-- Place the Afelia logo in the repo at assets/afelia-logo.png for this to render.
@@ -91,6 +94,23 @@ Below are some of my highlighted projects. Click to visit each repository or the
   </p>
 
 
+
+---
+
+## GoCraft — Minecraft, rebuilt in Go 🍪⛏️
+
+I founded and lead **[GoCraft](https://github.com/GoCraft-MC)** ([gocraft.fr](https://gocraft.fr)) — an open‑source organization rewriting the Minecraft server **from scratch in Go**. Our goal is a single high‑performance server with **native support for both Java and Bedrock** editions, plus a **multi‑runtime plugin system** so developers can extend the server in Go *and* Java.
+
+What we're building:
+- **GoCraft** — the core server implementation, fully written in Go
+- **gocraft-jvm** — a Java runtime that hosts JVM plugins inside the server
+- **gocraft-api-go** / **gocraft-abi** — the plugin API and binary interface layer
+- **gocraft-cli** — command‑line tooling for running and managing servers
+- **gocraft-plugin-examples** & **WorldGuard‑GO** — sample plugins to get developers started
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoCraft-MC&repo=GoCraft&theme=tokyonight&hide_border=true" alt="GoCraft repo" />
+</p>
 
 ---
 
@@ -148,6 +168,7 @@ Below are some of my highlighted projects. Click to visit each repository or the
 - Email: support@oreostudios.info
 - Discord: OreoStudios
 - Website / Shop: https://oreostudios.fr/
+- GoCraft: https://gocraft.fr/ — https://github.com/GoCraft-MC
 - Afelia game: http://afeliathegame.com/
 - GitHub: https://github.com/el211
 
