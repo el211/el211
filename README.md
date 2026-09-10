@@ -124,7 +124,7 @@ A selection of my highlighted work across game servers, web apps, libraries and 
 
 <p align="center">
   <a href="https://gocraft.fr" target="_blank">
-    <img src="assets/gocraft-banner.png" alt="GoCraft — Minecraft rebuilt in Go" width="720" />
+    <img src="assets/gocraftpng.png" alt="GoCraft — Minecraft rebuilt in Go" width="720" />
   </a>
 </p>
 
