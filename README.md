@@ -115,41 +115,25 @@ What we're building:
 - **gocraft-plugin-examples** & **WorldGuard‑GO** — sample plugins to get developers started
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoCraft-MC&repo=GoCraft&theme=tokyonight&hide_border=true" alt="GoCraft repo" />
-</p>
-
-<p align="center">
-  <a href="https://gocraft.fr"><img src="https://img.shields.io/badge/website-gocraft.fr-00ADD8?style=flat" alt="gocraft.fr" /></a>
-  <a href="https://github.com/GoCraft-MC"><img src="https://img.shields.io/badge/org-GoCraft--MC-181717?style=flat&logo=github" alt="GoCraft-MC" /></a>
+  <a href="https://gocraft.fr"><img src="https://img.shields.io/badge/website-gocraft.fr-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="gocraft.fr" /></a>
+  <a href="https://github.com/GoCraft-MC"><img src="https://img.shields.io/badge/org-GoCraft--MC-181717?style=for-the-badge&logo=github" alt="GoCraft-MC" /></a>
+  <a href="https://github.com/GoCraft-MC/GoCraft"><img src="https://img.shields.io/github/stars/GoCraft-MC/GoCraft?style=for-the-badge&logo=github&color=00ADD8" alt="GoCraft stars" /></a>
+  <a href="https://github.com/GoCraft-MC/GoCraft/blob/main/LICENSE"><img src="https://img.shields.io/github/license/GoCraft-MC/GoCraft?style=for-the-badge&color=00ADD8" alt="License" /></a>
 </p>
 
 ---
 
 ## Open Source Work & GitHub Stats
 
-<!-- Core stats + top languages (github-readme-stats) -->
+<!-- Profile overview + streak (reliable hosts) -->
 <p align="center">
   <a href="https://github.com/el211">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=el211&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Elias' GitHub Stats" />
-  </a>
-  <a href="https://github.com/el211">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el211&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=el211&theme=tokyonight" alt="Profile Summary" />
   </a>
 </p>
 
-<!-- Streak stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=el211&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<!-- Contribution activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=el211&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
-</p>
-
-<!-- Profile summary cards -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=el211&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 <p align="center">
@@ -160,11 +144,6 @@ What we're building:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=el211&theme=tokyonight" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=el211&theme=tokyonight&utcOffset=2" alt="Productive time" />
-</p>
-
-<!-- GitHub achievement trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=el211&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies" />
 </p>
 
 <!-- Profile views -->
