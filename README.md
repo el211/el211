@@ -106,7 +106,6 @@ A selection of my highlighted work across game servers, web apps, libraries and 
 | Project | Description |
 |---|---|
 | [**Structura**](https://github.com/el211/Structura) | Type-safe YAML configuration library for **Java 21+** with automatic type conversion. |
-| [**BDApi**](https://github.com/el211/BDApi) | Lightweight Java API for creating, animating and adding physics to Block Displays on Paper. |
 | [**OreoLib**](https://github.com/el211/OreoLib) | Utility library that makes writing Java plugins easier. |
   <p align="center">
     <!-- Place the Afelia logo in the repo at assets/afelia-logo.png for this to render.
