@@ -1,5 +1,4 @@
 <p align="center">
-      <img src="assets/C9532E5B-F84A-494D-A5DE-E394C6109C22.png" alt="OreoStudios" width="360" />
 </p>
 
 <h1 align="center">👋 HIIIIII — I'm Elias </h1>
